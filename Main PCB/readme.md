@@ -1,0 +1,1 @@
+The main PCB has the critical placment of the Brook PCB, USB output, AUX PCB connections, OLED connections, and LEDs. Everything is unrouted. The files are provided in Fusion Archive Format for use. Placement of MX sockets should be at the center of each circle on the PCB to ensure fitment.

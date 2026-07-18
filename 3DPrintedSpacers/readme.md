@@ -1,1 +1,1 @@
-3D printed spacers fit over machined posts on the case to space the main PCB at the correct distance from the top panel.
+3D printed spacers fit over machined posts on the case to space the main PCB at the correct distance from the top panel. These should be printed in PETG with thick walls, I found 4 wall loops to be great.

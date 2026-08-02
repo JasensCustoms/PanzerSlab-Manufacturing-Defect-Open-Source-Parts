@@ -9,8 +9,9 @@ Compatible replacement parts for the Panzer SLAB manufacturing defect. This repo
 ## What's in This Repo
 
 - `Main PCB/` — main PCB design files
-- `3DPrintedSpacers/` — 3D-printable spacer parts
-- `SLAB - AuxButtonTaller.STL` — taller aux button, 3D-printable
+- `AUX PCB Files/` — AUX PCB design and production files
+- `USB C PCB Files/` — USB-C PCB design and production files
+- `3D Printed Parts/` — 3D-printable parts (main PCB fix spacers and taller aux button)
 
 ## Community & Discussion
 

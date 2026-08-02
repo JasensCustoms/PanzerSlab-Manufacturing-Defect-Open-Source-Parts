@@ -1,12 +1,15 @@
-# 3D Printed Spacers
+# 3D Printed Parts
 
-3D printed spacers that fit over the machined posts on the case to space the main PCB at the correct distance from the top panel.
+3D-printable parts for the Panzer SLAB manufacturing defect fix.
 
 ## What's in This Folder
 
-- `SLABMainPCBFixSpacers-V1.0.3MF` — all spacer parts in a single 3MF file (V1.0)
+- `SLABMainPCBFixSpacers-V1.0.3MF` — main PCB fix spacers, all parts in a single 3MF file (V1.0)
+- `SLAB - AuxButtonTaller.STL` — taller aux button
 
-## Printing Guidance
+## Spacers
+
+The spacers fit over the machined posts on the case to space the main PCB at the correct distance from the top panel.
 
 Print in **PETG** with thick walls — 4 wall loops works great.
 

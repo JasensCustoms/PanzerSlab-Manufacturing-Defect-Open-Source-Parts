@@ -1,16 +1,25 @@
-# PanzerSlab-Manufacturing-Defect-Open-Source-Parts
-The Panzer SLAB manufacturing defect compatible parts. These are provided for personal use only under the CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). This is a place that basic PCB outlines, cable pinouts, etc. will reside. You are free to update and fix errors, provide more context, and cotnribute to the repo. 
+<p align="center">
+  <img alt="Jasen's Customs Logo" src="https://jasenscustoms.com/cdn/shop/files/jcc_logo.png?width=125" />
+</p>
 
-You are free to: 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
+# Panzer SLAB — Manufacturing Defect Compatible Parts
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Compatible replacement parts for the Panzer SLAB manufacturing defect. This repository holds basic PCB outlines, cable pinouts, and related files. You are welcome to fix errors, add context, and contribute to the repo.
 
-Under the following terms:
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-Notices:
+## What's in This Repo
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+- `Main PCB/` — main PCB design files
+- `3DPrintedSpacers/` — 3D-printable spacer parts
+- `SLAB - AuxButtonTaller.STL` — taller aux button, 3D-printable
+
+## Community & Discussion
+
+Questions, ideas, or just want to talk builds? Join the Jasen's Customs Discord: [discord.gg/UJmNMunTqa](https://discord.gg/UJmNMunTqa)
+
+## License — Personal, Non-Commercial Use Only
+
+Copyright © 2026 Jasen Hicks ([www.JasensCustoms.com](https://www.JasensCustoms.com)). All rights reserved.
+
+These designs are provided **solely for personal, private, non-commercial use.** You may build units for yourself, modify the designs for your own projects, and share the unmodified files (with attribution and the license intact). You may **not** sell parts, kits, units, or derivatives, manufacture for profit, or use these files commercially in any way.
+
+Full terms — including the **No Warranty** and **No Support** notices — are in [LICENSE.md](LICENSE.md). By downloading, copying, or using any file in this repository, you agree to them.

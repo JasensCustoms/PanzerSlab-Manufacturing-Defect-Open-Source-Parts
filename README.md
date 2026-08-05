@@ -9,6 +9,7 @@ Compatible replacement parts for the Panzer SLAB manufacturing defect. This repo
 ## What's in This Repo
 
 - `Main PCB/` — main PCB design files
+- `Plexi Overlay/` — plexi overlay cut file / art template (all SLABs)
 - `AUX PCB Files/` — AUX PCB design and production files
 - `USB C PCB Files/` — USB-C PCB design and production files
 - `3D Printed Parts/` — 3D-printable parts (main PCB fix spacers and taller aux button)

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #ef0a7c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="_x33_p">
+      <circle class="st0" cx="1130.1" cy="353.9" r="34.3"/>
+    </g>
+    <g id="_x32_p">
+      <circle class="st0" cx="1059.2" cy="385.1" r="34.3"/>
+    </g>
+    <g id="ex1">
+      <circle class="st0" cx="704.9" cy="390.8" r="34.3"/>
+    </g>
+    <g id="down">
+      <circle class="st0" cx="860.8" cy="385.1" r="34.3"/>
+    </g>
+    <g id="up_right">
+      <circle class="st0" cx="1045" cy="696.9" r="42.8"/>
+    </g>
+    <g id="right">
+      <circle class="st0" cx="917.5" cy="456" r="34.3"/>
+    </g>
+    <g id="_x31_p">
+      <circle class="st0" cx="1002.5" cy="456" r="34.3"/>
+    </g>
+    <g id="left">
+      <circle class="st0" cx="789.9" cy="353.9" r="34.3"/>
+    </g>
+    <g id="ex2">
+      <circle class="st0" cx="960" cy="385.1" r="34.3"/>
+    </g>
+    <g id="_x34_k">
+      <circle class="st0" cx="1237.1" cy="472.9" r="34.3"/>
+    </g>
+    <g id="_x34_p">
+      <circle class="st0" cx="1215.1" cy="390.8" r="34.3"/>
+    </g>
+    <g id="_x32_k">
+      <circle class="st0" cx="1081.2" cy="467.2" r="34.3"/>
+    </g>
+    <g id="_x31_k">
+      <circle class="st0" cx="1024.5" cy="538.1" r="34.3"/>
+    </g>
+    <g id="_x33_k">
+      <circle class="st0" cx="1152.1" cy="436" r="34.3"/>
+    </g>
+    <g id="up_left">
+      <circle class="st0" cx="875" cy="696.9" r="42.8"/>
+    </g>
+  </g>
+  <g id="ARC">
+    <path class="st0" d="M605.7,874.8c-66.8,0-121.2-54.4-121.2-121.2v-483.9c0-35.6,28.9-64.5,64.5-64.5h107.7c7.4,0,13.5,6,13.5,13.5v28.8c0,31.7,25.8,57.4,57.4,57.4h464.9c31.7,0,57.4-25.8,57.4-57.4v-28.8c0-7.4,6-13.5,13.5-13.5h107.7c35.6,0,64.5,28.9,64.5,64.5v483.9c0,66.8-54.4,121.2-121.2,121.2h-708.7Z"/>
+  </g>
+  <g>
+    <circle class="st0" cx="512.1" cy="247" r="6.4"/>
+    <circle class="st0" cx="534.8" cy="832.9" r="6.4"/>
+    <circle class="st0" cx="960" cy="832.9" r="6.4"/>
+    <circle class="st0" cx="1385.2" cy="832.9" r="6.4"/>
+    <circle class="st0" cx="1407.9" cy="247" r="6.4"/>
+  </g>
+</svg>
